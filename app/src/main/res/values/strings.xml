@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">sm_1</string>
+    <string name="inputNumber">Введите число</string>
+    <string name="button">Посчитать</string>
+    <string name="appDescription">Найти факториал числа</string>
+</resources>
